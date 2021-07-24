@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sushil Thakur  
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m learning Data Science from INSAID.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
