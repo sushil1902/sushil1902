@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sushil Thakur . I am B.SC Phy hons, MBA, Pursuing  Datascience from INSAID . I have total 12 Years of experience in Travel domain . 
-- 👀 Start Coding in Year 2020 and look like it's amazing and challenging for me.
-- 🌱 Deviated myself towards DataScience field .It looks beautiful experience of Statistics , Math , Python, Pandas , Numpy , matplotlib, Scipy and other Library.
+- 👋 Hi, I’m Sushil Thakur . I am B.SC Phy hons, MBA, Pursuing  Data Science from INSAID . I have total 12 Years of experience in Travel domain . 
+- 👀 Start Coding using python in Year 2020 after 1st lockdown of COVID-19 and look like it's amazing and challenging as i am going deeper and deeper.
+- 🌱 Deviated myself towards DataScience field using Python .It looks beautiful experience of Statistics , Math , Python, Pandas , Numpy , matplotlib, Scipy and other Library.
 - 💞️  Now , I am looking for carrier transition in the field of DataScience .
 - 📫 Either mail me at thakur.sushil1@gmail.com
 
