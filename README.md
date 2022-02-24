@@ -1,4 +1,4 @@
-- 👋 Hi, My Name is Sushil Thakur . My educations : B.SC Physics hons, MBA (Marketing and International Business), Pursuing  Data Science from INSAID since 10 April 2021 .
+- 👋 Hi, My Name is Sushil Thakur . My educations : B.SC Physics hons, MBA (Marketing and International Business), Global certificate in Data Science from INSAID in 2021-2022.
 - Experince : Total 11 Years of experience in Travel domain specially corporate travel mamangement . 
 - 👀 Started Coding using python in Year 2020 after 1st lockdown of COVID-19 and look like it's amazing and challenging as i am going deeper and deeper.
 - 🌱 Deviated myself towards DataScience field using Python .It looks beautiful experience of Statistics , Math , Python, Pandas , Numpy , matplotlib, Scipy and other Library.
